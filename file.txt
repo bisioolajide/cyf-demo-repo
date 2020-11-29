@@ -5,4 +5,8 @@ If you're reading this on your computer, congratulations, you've cloned your fir
 Here's a question for you to answer:
 
 Queston: What is your favourite dessert food?
+<<<<<<< HEAD
 Your answer: Chocolate Ice Cream
+=======
+Your answer: Apple Pie and Fried Plantain with ice cream
+>>>>>>> e0d360d4fef4035676576eecdf2f95900f27ed16
